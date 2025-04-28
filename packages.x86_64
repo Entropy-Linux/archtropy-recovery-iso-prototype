@@ -151,3 +151,6 @@ git
 catlinux-installer
 catlinux-keyring
 catlinux-mirrorlist
+
+#catlinux-aur
+yay
