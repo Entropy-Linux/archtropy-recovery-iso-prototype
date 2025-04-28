@@ -128,7 +128,6 @@ sddm
 plasma-desktop
 konsole
 firefox
-
 networkmanager
 
 virtualbox-guest-utils-nox
@@ -144,3 +143,11 @@ xorg-xrdb
 nvidia-open
 nvidia-utils
 
+base-devel
+git
+
+
+#catlinux
+catlinux-installer
+catlinux-keyring
+catlinux-mirrorlist
